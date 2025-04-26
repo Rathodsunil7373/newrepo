@@ -1,2 +1,4 @@
 hello my dear friend this is my 1st git tryail
-hope you will get youknow 
+hope you will get youknow
+
+new line added 
